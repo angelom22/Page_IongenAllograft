@@ -129,11 +129,20 @@
     </section>
 
     <!-- Google Maps -->
-    <div class="map-area mb-100">
+    <!-- <div class="map-area mb-100">
         <div class="container">
             <div class="row">
                 <div class="col-12">
                     <div id="googleMap" class="googleMap"></div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+    <div class="map-area mb-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d114964.3894364903!2d-80.2994994776095!3d25.782545312660435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9b0a20ec8c111%3A0xff96f271ddad4f65!2sMiami%2C%20Florida%2C%20EE.%20UU.!5e0!3m2!1ses!2sve!4v1591288034893!5m2!1ses!2sve" width="1100" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                 </div>
             </div>
         </div>

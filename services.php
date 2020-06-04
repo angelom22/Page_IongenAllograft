@@ -159,7 +159,7 @@
                 <i class="icon-patch-1"></i>
             </div>
             <div class="singleServiceText">
-                <h2>IONGEN ALLOGRAFT injection</h2>
+                <h2>IONGEN ALLOGRAFT caution</h2>
                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing eli. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
             </div>
         </div>
@@ -250,7 +250,7 @@
     </div>
     <!-- ***** CTA Area End ***** -->
 
-     <!-- ***** Footer Area Start ***** -->
+    <!-- ***** Footer Area Start ***** -->
         <?php
             include ("footer.php");
         ?>
