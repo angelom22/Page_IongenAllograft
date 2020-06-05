@@ -301,19 +301,12 @@
                     <div class="row">
                         <!-- Single Emergency Helpline -->
                         <div class="col-12 col-sm-6">
-                            <div class="single-emergency-helpline mb-50">
+                            <div class="single-emergency-helpline mb-100">
                                 <h5>USA</h5>
                                 <p> <a style="color:white; font=20px" href="https://wa.me/123456789" target="_blank">+1 999 999 9999</a>  <br> contact@IONGENALLOGRAFT.com <br> Lamas Str, no 14-18 <br> 41770 Miami</p>
                             </div>
                         </div>
-                        <!-- Single Emergency Helpline -->
-                        <div class="col-12 col-sm-6">
-                            <div class="single-emergency-helpline mb-50">
-                                <h5>Venezuela</h5>
-                                <p><a style="color:white; font=20px" href="https://wa.me/123456789" target="_blank">+58 999 99 99</a> <br> contact@IONGENALLOGRAFT.com <br> Centro <br>  Caracas</p>
-                            </div>
-                        </div>
-                        
+                                                
                     </div>
                 </div>
             </div>

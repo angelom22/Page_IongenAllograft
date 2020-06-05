@@ -27,9 +27,63 @@
 
     <!-- ***** Header Area Start ***** -->
     <header class="header-area">
-        <?php
-            include ("menu.php")
-        ?>
+        <!-- Top Header Area -->
+        <div class="top-header-area">
+            <div class="container h-100">
+                <div class="row h-100">
+                    <div class="col-12 h-100">
+                        <div class="h-100 d-md-flex justify-content-between align-items-center">
+                            <p>Email: <span>info@iongenallograft.com</span> </p>
+                            <p>Contact <a href="https://wa.me/123456789" target="_black"> <span>+1-999-999-9999</span> </a> </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Header Area -->
+        <div class="main-header-area" id="stickyHeader">
+            <div class="container h-100">
+                <div class="row h-100 align-items-center">
+                    <div class="col-12 h-100">
+                        <div class="main-menu h-100">
+                            <nav class="navbar h-100 navbar-expand-lg">
+                                <!-- Logo Area  -->
+                                <a class="navbar-brand" href="index.php">IONGEN ALLOGRAFT</a>
+
+                                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#medilifeMenu" aria-controls="medilifeMenu" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+
+                                <div class="collapse navbar-collapse" id="medilifeMenu">
+                                    <!-- Menu Area -->
+                                    <ul class="navbar-nav ml-auto">
+                                        <li class="nav-item ">
+                                            <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
+                                        </li>
+
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="blog.php">Blog</a>
+                                        </li>
+                                        
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="about-us.php">About Us</a>
+                                        </li>
+
+                                        <li class="nav-item active">
+                                            <a class="nav-link" href="services.php">Services</a>
+                                        </li>
+
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="contact.php">Contact</a>
+                                        </li>
+                                    </ul>
+                                    
+                                </div>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </header>
     <!-- ***** Header Area End ***** -->
 
@@ -59,7 +113,7 @@
                             <i class="icon-doctor"></i>
                         </div>
                         <div class="service-content">
-                            <h5>The Best Doctors</h5>
+                            <h5>Service 1</h5>
                             <p>Lorem ipsum dolor sit amet, consecte tuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut.</p>
                         </div>
                     </div>
@@ -71,7 +125,7 @@
                             <i class="icon-blood-donation-1"></i>
                         </div>
                         <div class="service-content">
-                            <h5>Baby Nursery</h5>
+                            <h5>Service 2</h5>
                             <p>Dolor sit amet, consecte tuer elit, sed diam nonummy nibh euismod tincidunt ut ldolore magna.</p>
                         </div>
                     </div>
@@ -83,7 +137,7 @@
                             <i class="icon-helicopter"></i>
                         </div>
                         <div class="service-content">
-                            <h5>Helicopters</h5>
+                            <h5>Service 3</h5>
                             <p>Lorem ipsum dolor sit amet, consecte tuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut.</p>
                         </div>
                     </div>
@@ -95,7 +149,7 @@
                             <i class="icon-flask"></i>
                         </div>
                         <div class="service-content">
-                            <h5>Laboratory</h5>
+                            <h5>Service 4</h5>
                             <p>Dolor sit amet, consecte tuer elit, sed diam nonummy nibh euismod tincidunt ut ldolore magna.</p>
                         </div>
                     </div>
@@ -107,7 +161,7 @@
                             <i class="icon-emergency-call-1"></i>
                         </div>
                         <div class="service-content">
-                            <h5>Emergency Room</h5>
+                            <h5>Service 5</h5>
                             <p>Dolor sit amet, consecte tuer elit, sed diam nonummy nibh euismod tincidunt ut ldolore magna.</p>
                         </div>
                     </div>
@@ -119,7 +173,7 @@
                             <i class="icon-blood-donation-2"></i>
                         </div>
                         <div class="service-content">
-                            <h5>Cardiology</h5>
+                            <h5>Service 6</h5>
                             <p>Dolor sit amet, consecte tuer elit, sed diam nonummy nibh euismod tincidunt ut ldolore magna.</p>
                         </div>
                     </div>
@@ -138,14 +192,19 @@
             <div class="singleServiceText">
                 <h2>IONGEN ALLOGRAFT injection</h2>
                 <p>Consider giving yourself the injection if you have one: 
-                    <ul>
-                        <li>Back pain</li>
-                        <li>Ruptured or sprained ligaments</li>
-                        <li>Sports injury</li>
-                        <li>Painful joints and/or arthritis</li>
-                        <li>Soft tissue injury (tennis elbow, plantar fasciitis, rotator cuff)</li>
-                        <li>Spinal Injury</li>
-                    </ul>
+                    <br>
+                    + Back pain
+                    <br>
+                    + Ruptured or sprained ligaments
+                    <br>
+                    + Sports injury
+                    <br>
+                    + Painful joints and/or arthritis
+                    <br>
+                    + Soft tissue injury (tennis elbow, plantar fasciitis, rotator cuff)
+                    <br>
+                    + Spinal Injury
+                    
                 </p>
             </div>
         </div>
@@ -202,7 +261,7 @@
                 </div>
                 <div class="col-12 col-md-4">
                     <div class="single-benefits-thumb">
-                        <img src="img/bg-img/benefits.jpg" alt="benefits amniotic fluid inyection">
+                        <img src="img/bg-img/benefits.png" alt="benefits amniotic fluid inyection">
                     </div>
                 </div>
                 <div class="col-12 col-md-4">
