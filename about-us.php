@@ -199,7 +199,7 @@
     <!-- ***** Skills Area End ***** -->
 
     <!-- ***** Tabs Area Start ***** -->
-    <section class="medilife-tabs-area section-padding-100">
+    <!-- <section class="medilife-tabs-area section-padding-100">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -228,12 +228,12 @@
                         <div class="tab-content" id="myTabContent">
                             <div class="tab-pane fade" id="institution" role="tabpanel" aria-labelledby="institution-tab">
                                 <div class="medilife-tab-content d-md-flex align-items-center">
-                                    <!-- Medilife Tab Text  -->
+                                   
                                     <div class="medilife-tab-text">
                                         <h2>Take a look at this</h2>
                                         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing eli. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing eli sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing eli.</p>
                                     </div>
-                                    <!-- Medilife Tab Img  -->
+                                    
                                     <div class="medilife-tab-img">
                                         <img src="img/bg-img/about1.jpg" alt="">
                                     </div>
@@ -241,12 +241,12 @@
                             </div>
                             <div class="tab-pane fade" id="faq" role="tabpanel" aria-labelledby="faq-tab">
                                 <div class="medilife-tab-content d-md-flex align-items-center">
-                                    <!-- Medilife Tab Text  -->
+                                    
                                     <div class="medilife-tab-text">
                                         <h2>Take a look at this</h2>
                                         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing eli. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing eli sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing eli.</p>
                                     </div>
-                                    <!-- Medilife Tab Img  -->
+                                    
                                     <div class="medilife-tab-img">
                                         <img src="img/bg-img/medical1.png" alt="">
                                     </div>
@@ -254,12 +254,12 @@
                             </div>
                             <div class="tab-pane fade show active" id="specialities" role="tabpanel" aria-labelledby="specialities-tab">
                                 <div class="medilife-tab-content d-md-flex align-items-center">
-                                    <!-- Medilife Tab Text  -->
+                                    
                                     <div class="medilife-tab-text">
                                         <h2>Take a look at this</h2>
                                         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing eli. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing eli sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing eli.</p>
                                     </div>
-                                    <!-- Medilife Tab Img  -->
+                                    
                                     <div class="medilife-tab-img">
                                         <img src="img/bg-img/tab.jpg" alt="">
                                     </div>
@@ -267,12 +267,12 @@
                             </div>
                             <div class="tab-pane fade" id="laboratory" role="tabpanel" aria-labelledby="laboratory-tab">
                                 <div class="medilife-tab-content d-md-flex align-items-center">
-                                    <!-- Medilife Tab Text  -->
+                                    
                                     <div class="medilife-tab-text">
                                         <h2>Take a look at this</h2>
                                         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing eli. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing eli sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing eli.</p>
                                     </div>
-                                    <!-- Medilife Tab Img  -->
+                                    
                                     <div class="medilife-tab-img">
                                         <img src="img/bg-img/medical1.png" alt="">
                                     </div>
@@ -280,12 +280,12 @@
                             </div>
                             <div class="tab-pane fade" id="emergencies" role="tabpanel" aria-labelledby="emergencies-tab">
                                 <div class="medilife-tab-content d-md-flex align-items-center">
-                                    <!-- Medilife Tab Text  -->
+                                    
                                     <div class="medilife-tab-text">
                                         <h2>Take a look at this</h2>
                                         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing eli. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing eli sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing eli.</p>
                                     </div>
-                                    <!-- Medilife Tab Img  -->
+                                    
                                     <div class="medilife-tab-img">
                                         <img src="img/bg-img/about1.jpg" alt="">
                                     </div>
@@ -293,12 +293,12 @@
                             </div>
                             <div class="tab-pane fade" id="scolarship" role="tabpanel" aria-labelledby="scolarship-tab">
                                 <div class="medilife-tab-content d-md-flex align-items-center">
-                                    <!-- Medilife Tab Text  -->
+                                    
                                     <div class="medilife-tab-text">
                                         <h2>Take a look at this</h2>
                                         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing eli. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing eli sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing eli.</p>
                                     </div>
-                                    <!-- Medilife Tab Img  -->
+                                    
                                     <div class="medilife-tab-img">
                                         <img src="img/bg-img/medical1.png" alt="">
                                     </div>
@@ -309,7 +309,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- ***** Tabs Area End ***** -->
 
     <!-- ***** Footer Area Start ***** -->
