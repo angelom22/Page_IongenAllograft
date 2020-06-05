@@ -223,7 +223,7 @@
                             <img src="img/blog-img/1.jpg" alt="">
                             <!-- Post Date -->
                             <div class="post-date">
-                                <a href="#">Jan 23, 2018</a>
+                                <a href="#">May 04, 2020</a>
                             </div>
                         </div>
                         <!-- Post Content -->
@@ -231,9 +231,9 @@
                             <div class="post-author">
                                 <a href="#"><img src="img/blog-img/p1.jpg" alt=""></a>
                             </div>
-                            <a href="#" class="headline">New drog release soon</a>
+                            <a href="#" class="headline">Notice 01</a>
                             <p>Dolor sit amet, consecte tuer adipiscing elit, sed diam nonummy nibh euismod tincidunt.</p>
-                            <a href="#" class="comments">3 Comments</a>
+                            <a href="#" class="comments">0 Comments</a>
                         </div>
                     </div>
                 </div>
@@ -245,7 +245,7 @@
                             <img src="img/blog-img/2.jpg" alt="">
                             <!-- Post Date -->
                             <div class="post-date">
-                                <a href="#">Jan 23, 2018</a>
+                                <a href="#">May 01, 2020</a>
                             </div>
                         </div>
                         <!-- Post Content -->
@@ -253,9 +253,9 @@
                             <div class="post-author">
                                 <a href="#"><img src="img/blog-img/p2.jpg" alt=""></a>
                             </div>
-                            <a href="#" class="headline">Free dental care</a>
+                            <a href="#" class="headline">Notice 02</a>
                             <p>Dolor sit amet, consecte tuer adipiscing elit, sed diam nonummy nibh euismod tincidunt.</p>
-                            <a href="#" class="comments">3 Comments</a>
+                            <a href="#" class="comments">0 Comments</a>
                         </div>
                     </div>
                 </div>
@@ -267,7 +267,7 @@
                             <img src="img/blog-img/3.jpg" alt="">
                             <!-- Post Date -->
                             <div class="post-date">
-                                <a href="#">Jan 23, 2018</a>
+                                <a href="#">Jan 22, 2020</a>
                             </div>
                         </div>
                         <!-- Post Content -->
@@ -275,9 +275,9 @@
                             <div class="post-author">
                                 <a href="#"><img src="img/blog-img/p3.jpg" alt=""></a>
                             </div>
-                            <a href="#" class="headline">Good news for the pacients</a>
+                            <a href="#" class="headline">Notice 03</a>
                             <p>Dolor sit amet, consecte tuer adipiscing elit, sed diam nonummy nibh euismod tincidunt.</p>
-                            <a href="#" class="comments">3 Comments</a>
+                            <a href="#" class="comments">0 Comments</a>
                         </div>
                     </div>
                 </div>

@@ -32,8 +32,8 @@
                                     <img src="img/blog-img/ln1.jpg" alt="">
                                 </div>
                                 <div class="widget-post-content">
-                                    <a href="#">Better Health Care</a>
-                                    <p>Dec 02, 2017</p>
+                                    <a href="#">Notice 01</a>
+                                    <p>Jan 15, 2020</p>
                                 </div>
                             </div>
                             <!-- Single Blog Post -->
@@ -42,8 +42,8 @@
                                     <img src="img/blog-img/ln2.jpg" alt="">
                                 </div>
                                 <div class="widget-post-content">
-                                    <a href="#">A new drug is tested</a>
-                                    <p>Dec 02, 2017</p>
+                                    <a href="#">Notice 02</a>
+                                    <p>Jan 02, 2020</p>
                                 </div>
                             </div>
                             <!-- Single Blog Post -->
@@ -52,8 +52,8 @@
                                     <img src="img/blog-img/ln3.jpg" alt="">
                                 </div>
                                 <div class="widget-post-content">
-                                    <a href="#">Health department advice</a>
-                                    <p>Dec 02, 2017</p>
+                                    <a href="#">Notice 03</a>
+                                    <p>Jan 20, 2020</p>
                                 </div>
                             </div>
                         </div>

@@ -106,15 +106,22 @@
     <div class="medilife-services-area section-padding-100-20">
         <div class="container">
             <div class="row">
+                
+                    <div class="col-12">
+                        <div class="section-heading">
+                            <h2>Our Services </h2>
+                        </div>
+                    </div>
+                
                 <!-- Single Service Area -->
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-service-area d-flex">
                         <div class="service-icon">
-                            <i class="icon-doctor"></i>
+                            <i class="icon-atoms"></i>
                         </div>
                         <div class="service-content">
-                            <h5>Service 1</h5>
-                            <p>Lorem ipsum dolor sit amet, consecte tuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut.</p>
+                            <h5>Regenerative Medicine</h5>
+                            <p>This product is made from many regenerative components such as stem cells, which immediately help to rebuild the tissue.</p>
                         </div>
                     </div>
                 </div>
@@ -125,8 +132,8 @@
                             <i class="icon-blood-donation-1"></i>
                         </div>
                         <div class="service-content">
-                            <h5>Service 2</h5>
-                            <p>Dolor sit amet, consecte tuer elit, sed diam nonummy nibh euismod tincidunt ut ldolore magna.</p>
+                            <h5>Sports Medicine</h5>
+                            <p>We study the effects of exercise and physical activity on the human body. We look at both the treatment and prevention of injuries.</p>
                         </div>
                     </div>
                 </div>
@@ -134,11 +141,11 @@
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-service-area d-flex">
                         <div class="service-icon">
-                            <i class="icon-helicopter"></i>
+                            <i class="icon-first-aid-kit-2"></i>
                         </div>
                         <div class="service-content">
-                            <h5>Service 3</h5>
-                            <p>Lorem ipsum dolor sit amet, consecte tuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut.</p>
+                            <h5>Aesthetic Medicine</h5>
+                            <p>Our product also helps to improve the aspects of beauty, looking for the naturalness of the results.</p>
                         </div>
                     </div>
                 </div>
@@ -146,11 +153,11 @@
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-service-area d-flex">
                         <div class="service-icon">
-                            <i class="icon-flask"></i>
+                            <i class="icon-cardiogram"></i>
                         </div>
                         <div class="service-content">
-                            <h5>Service 4</h5>
-                            <p>Dolor sit amet, consecte tuer elit, sed diam nonummy nibh euismod tincidunt ut ldolore magna.</p>
+                            <h5>Progress</h5>
+                            <p>We are always in a constant medical advance, carrying out profound studies that go beyond conventional medicine.</p>
                         </div>
                     </div>
                 </div>
@@ -158,16 +165,16 @@
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-service-area d-flex">
                         <div class="service-icon">
-                            <i class="icon-emergency-call-1"></i>
+                            <i class="icon-clock"></i>
                         </div>
                         <div class="service-content">
-                            <h5>Service 5</h5>
-                            <p>Dolor sit amet, consecte tuer elit, sed diam nonummy nibh euismod tincidunt ut ldolore magna.</p>
+                            <h5>Innovation</h5>
+                            <p>We innovate as time and medicine advance in order to be at the forefront and bring all our doctors and customers the best product.</p>
                         </div>
                     </div>
                 </div>
                 <!-- Single Service Area -->
-                <div class="col-12 col-md-6 col-lg-4">
+                <!-- <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-service-area d-flex">
                         <div class="service-icon">
                             <i class="icon-blood-donation-2"></i>
@@ -177,7 +184,7 @@
                             <p>Dolor sit amet, consecte tuer elit, sed diam nonummy nibh euismod tincidunt ut ldolore magna.</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
@@ -191,7 +198,7 @@
             </div>
             <div class="singleServiceText">
                 <h2>IONGEN ALLOGRAFT injection</h2>
-                <p>Consider giving yourself the injection if you have one: 
+                <p align="justify">Consider giving yourself the injection if you have one: 
                     <br>
                     + Back pain
                     <br>
@@ -219,7 +226,7 @@
             </div>
             <div class="singleServiceText">
                 <h2>IONGEN ALLOGRAFT caution</h2>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing eli. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+                <p align="justify">Before applying this injection it is recommended that you go to the evaluation of a doctor you trust, which should make the relevant analysis to determine what your injury is and whether or not it is advisable to start treatment with Iongen Allograft, made with the miraculous 100% pure amniotic liquid.</p>
             </div>
         </div>
     </div>

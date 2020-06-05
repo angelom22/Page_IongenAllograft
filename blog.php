@@ -188,8 +188,8 @@
                                         <img src="img/blog-img/ln1.jpg" alt="">
                                     </div>
                                     <div class="widget-post-content">
-                                        <a href="#">A big discovery for medicine</a>
-                                        <p>Dec 02, 2017</p>
+                                        <a href="#">Notice 01</a>
+                                        <p>Jan 02, 2020</p>
                                     </div>
                                 </div>
                                 <!-- Single Blog Post -->
@@ -198,8 +198,8 @@
                                         <img src="img/blog-img/ln2.jpg" alt="">
                                     </div>
                                     <div class="widget-post-content">
-                                        <a href="#">Dentistry for everybody</a>
-                                        <p>Dec 02, 2017</p>
+                                        <a href="#">Notice 02</a>
+                                        <p>Jan 15, 2020</p>
                                     </div>
                                 </div>
                                 <!-- Single Blog Post -->
@@ -208,8 +208,8 @@
                                         <img src="img/blog-img/ln3.jpg" alt="">
                                     </div>
                                     <div class="widget-post-content">
-                                        <a href="#">When it’s time to take pills</a>
-                                        <p>Dec 02, 2017</p>
+                                        <a href="#">Notice 03</a>
+                                        <p>Jan 20, 2020</p>
                                     </div>
                                 </div>
                             </div>
@@ -217,7 +217,7 @@
 
                         <!-- medilife Emergency Card -->
                         <div class="medilife-emergency-card bg-img bg-overlay" style="background-image: url(img/bg-img/about1.jpg);">
-                            <i class="icon-smartphone"></i>
+                            <i class="icon-smartphone-3"></i>
                             <h2>For Contact</h2>
                             <h3>+1-999-999-9999</h3>
                         </div>
